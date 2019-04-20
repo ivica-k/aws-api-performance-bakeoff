@@ -6,7 +6,7 @@ The code in this directory will deploy a Serverless application. It has a single
 
 ### Usage
 
-1. Install the [Serverless Framework](www.serverless.com):
+1. Install the [Serverless Framework](https://serverless.com):
 
 	```bash
 	npm install -g serverless
